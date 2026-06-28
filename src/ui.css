@@ -245,6 +245,19 @@
 .reveal-foot { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 18px; }
 .next-btn { margin-left: auto; }
 
+/* floating nudge toward the reveal card when it sits below the fold */
+.jump-card {
+  position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%);
+  z-index: 20; padding: 11px 20px; border-radius: 999px;
+  font-family: var(--mono); font-size: 13px; font-weight: 600; letter-spacing: 0.01em;
+  color: var(--ink); background: var(--hwang);
+  border: 1px solid color-mix(in srgb, var(--ink) 18%, transparent);
+  box-shadow: 0 10px 26px -10px rgba(43, 38, 32, 0.6);
+  cursor: pointer; transition: transform 0.12s, box-shadow 0.15s;
+}
+.jump-card:hover { transform: translateX(-50%) translateY(-2px); box-shadow: 0 14px 30px -10px rgba(43, 38, 32, 0.65); }
+.jump-card:active { transform: translateX(-50%) scale(0.97); }
+
 /* ============ RESULTS ============ */
 .results { max-width: 720px; }
 .results-grade { display: flex; align-items: center; gap: 22px; margin: 10px 0 28px; }

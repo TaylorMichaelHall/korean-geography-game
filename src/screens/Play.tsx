@@ -38,10 +38,12 @@ export function Play({
   const [streak, setStreak] = useState(0)
   const [score, setScore] = useState(0)
   const [lastGain, setLastGain] = useState<number | null>(null)
+  const [revealOffscreen, setRevealOffscreen] = useState(false)
 
   const q = questions[index]
   const isLast = index === questions.length - 1
   const startRef = useRef(0)
+  const revealRef = useRef<HTMLDivElement>(null)
   const acc = useRef<RoundResult>({
     score: 0, correct: 0, total: questions.length, maxStreak: 0,
     gainedXp: 0, newlyMastered: 0, answers: [],
@@ -89,6 +91,25 @@ export function Play({
       sfx.wrong()
     }
   }, [chosen, q, streak, onAnswer])
+
+  // Show a "jump to card" button when the reveal scrolls below the fold.
+  useEffect(() => {
+    const el = revealRef.current
+    if (chosen === null || !el) {
+      setRevealOffscreen(false)
+      return
+    }
+    const io = new IntersectionObserver(
+      ([e]) => setRevealOffscreen(!e.isIntersecting),
+      { threshold: 0.6 },
+    )
+    io.observe(el)
+    return () => io.disconnect()
+  }, [chosen, index])
+
+  const scrollToReveal = useCallback(() => {
+    revealRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }, [])
 
   const next = useCallback(() => {
     sfx.click()
@@ -232,7 +253,7 @@ export function Play({
       {/* REVEAL */}
       <AnimatePresence>
         {chosen !== null && (
-          <motion.div className="reveal card"
+          <motion.div className="reveal card" ref={revealRef}
             initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 24 }} transition={{ duration: 0.32, ease: EASE }}>
             <div className="reveal-head">
@@ -260,6 +281,17 @@ export function Play({
               </button>
             </div>
           </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* floating nudge to the reveal card when it's below the fold */}
+      <AnimatePresence>
+        {chosen !== null && revealOffscreen && (
+          <motion.button className="jump-card" onClick={scrollToReveal}
+            initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 14 }} transition={{ duration: 0.22, ease: EASE }}>
+            정답 보기 · See result ↓
+          </motion.button>
         )}
       </AnimatePresence>
     </motion.main>
