@@ -2,6 +2,8 @@
 
 A browser game for learning South Korean geography.
 
+Play it here: https://taylormichaelhall.com/korea-geo/
+
 Practice provinces, cities, Seoul and Gyeonggi districts, islands, mountains, rivers, seas, Korean pronunciation, and hanja through short quiz modes. Progress is saved in your browser with `localStorage`; there is no account or backend.
 
 | Locate | Plan a survey |
