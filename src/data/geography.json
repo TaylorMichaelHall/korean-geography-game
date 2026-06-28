@@ -1,0 +1,1647 @@
+[
+  {
+    "id": 1616146416950,
+    "korean": "강원도",
+    "english": "Gangwon Province",
+    "hanja": "江原道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Gangwon-01.png",
+    "notes": "Before the division of Korea in 1945, Gangwon (강원도) and North Korea's Kangwon (also 강원도) formed a single province. It is the least densely populated province in South Korea. The capital of the province is Chuncheon (춘천시).",
+    "reference": "https://en.wikipedia.org/wiki/Gangwon_Province,_South_Korea",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616146558331,
+    "korean": "경기도",
+    "english": "Gyeonggi Province",
+    "hanja": "京畿道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Gyeonggi-01.png",
+    "notes": "The name of this province literally translates to 'The Area Surrounding the Capital'. Gyeonggi Province (경기도), Seoul (서울특별시) and Incheon (인천광역시) are collectively known as Sudogwon (수도권), and make up about half the population of South Korea. The capital of the province is Suwon (수원시).",
+    "reference": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province",
+      "Sudogwon"
+    ]
+  },
+  {
+    "id": 1616146585105,
+    "korean": "경상남도",
+    "english": "South Gyeongsang Province",
+    "hanja": "慶尙南道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-South_Gyeongsang-01.png",
+    "notes": "South Gyeongsang Province is home to a UNESCO World Heritage Site: Haeinsa (해인사), a Buddhist temple that houses the Tripitaka Koreana. The capital of the province is Changwon (창원시).",
+    "reference": "https://en.wikipedia.org/wiki/South_Gyeongsang_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616146615582,
+    "korean": "경상북도",
+    "english": "North Gyeongsang Province",
+    "hanja": "慶尙北道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-North_Gyeongsang-01.png",
+    "notes": "This is the homeland of the former kingdom of Silla (신라), one of the Three Kingdoms of Korea. It is perhaps the hottest part of Korea in the summer due to being surrounded by the Taebaek Mountains (태백산맥) in the east and the Sobaek Mountains (소백산맥) in the west. The capital of the province is Andong (안동시).",
+    "reference": "https://en.wikipedia.org/wiki/North_Gyeongsang_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616146651242,
+    "korean": "광주광역시",
+    "english": "Gwangju Metropolitan City",
+    "hanja": "光州廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Gwangju-01.png",
+    "notes": "Considered the birthplace of Korean democracy, after the events of the Gwangju Uprising in 1980. TalkToMeInKorean's founder and CEO, Hyunwoo Sun (선현우) comes from Gwangju. It is the 6th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gwangju",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146676584,
+    "korean": "대구광역시",
+    "english": "Daegu Metropolitan City",
+    "hanja": "大邱廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Daegu-01.png",
+    "notes": "Due to its extreme summer temperatures, Daegu is nicknamed Dae-frika (대프리카; Daegu + Africa). Famous folk singer Kim Kwang-Seok (김광석) was from Daegu. Nowadays, you can visit a street commemorating him in the city. It is the 4th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Daegu",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146703528,
+    "korean": "대전광역시",
+    "english": "Daejeon Metropolitan City",
+    "hanja": "大田廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Daejeon-01.png",
+    "notes": "Located in the heart of South Korea, Daejeon is a hub of transportation. There are 18 universities in Daejeon, including KAIST, which is one of the best universities in the country. Young Koreans have nicknamed it '노잼도시', meaning 'boring city', due to a lack of things to do (at least when compared to Seoul). It is the 5th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Daejeon",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146752145,
+    "korean": "부산광역시",
+    "english": "Busan Metropolitan City",
+    "hanja": "釜山廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Busan-01.png",
+    "notes": "Known for its amazing beaches and seafood. Home to Asia's biggest film festival (Busan International Film Festival), the world's largest department store and 6th busiest port in the world. It is the 2nd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Busan",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146775031,
+    "korean": "서울특별시",
+    "english": "Seoul Special City",
+    "hanja": "서울特別市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Seoul-01.png",
+    "notes": "The capital of South Korea. It has a population of ~10 million, housing one-fifth of the population of South Korea. It is one of the top 10 most expensive cities in the world.",
+    "reference": "https://en.wikipedia.org/wiki/Seoul<br>https://www.bbc.co.uk/news/business-47617206",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity",
+      "Sudogwon::Seoul"
+    ]
+  },
+  {
+    "id": 1616146812395,
+    "korean": "세종특별자치시",
+    "english": "Sejong Special Self-Governing City",
+    "hanja": "世宗特別自治市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Sejong-01.png",
+    "notes": "Founded in 2007 as a new planned capital of South Korea, to ease congestion in Seoul and encourage investment in Korea's central regions. Hence, several government ministries have been relocated to Sejong. By 2030, the population is expected to be ~500,000 and all government institutions will be moved there. It is the 51st largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Sejong_City",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146836266,
+    "korean": "울산광역시",
+    "english": "Ulsan Metropolitan City",
+    "hanja": "蔚山廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Ulsan-01.png",
+    "notes": "The industrial powerhouse of South Korea. It hosts the world's largest automobile assembly plant, operated by the Hyundai Motor Company, the world's largest shipyard, operated by Hyundai Heavy Industries, and the world's third-largest oil refinery, owned by SK energy. It is also known for its whaling heritage, which you can learn about at the Jangsaengpo whale museum (장생포 고래박물관). It is the 8th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Ulsan",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity"
+    ]
+  },
+  {
+    "id": 1616146861892,
+    "korean": "인천광역시",
+    "english": "Incheon Metropolitan City",
+    "hanja": "仁川廣域市",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Incheon-01.png",
+    "notes": "A major transportation hub in North-East Asia, with Incheon International Airport (인천 공항) and Incheon Port (인천 항구). It has the best Chinatown in South Korea, which is where jjajangmyeon (짜장면) was born. It is the 3rd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Incheon",
+    "category": "Provinces & Cities",
+    "subtype": "MajorCity",
+    "tags": [
+      "AdministrativeDivision::MajorCity",
+      "Sudogwon::Incheon"
+    ]
+  },
+  {
+    "id": 1616146881364,
+    "korean": "전라남도",
+    "english": "South Jeolla Province",
+    "hanja": "全羅南道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-South_Jeolla-01.png",
+    "notes": "There are almost 2000 islands along the coastline of South Jeolla Province, three-quarters of which are uninhabited. The largest city in the province is Yeosu (여수시). However, the capital is Muan County (무안군).",
+    "reference": "https://en.wikipedia.org/wiki/South_Jeolla_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616146907258,
+    "korean": "전라북도",
+    "english": "North Jeolla Province",
+    "hanja": "全羅北道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-North_Jeolla-01.png",
+    "notes": "Home to the Jeonju International Sori Festival (전주세계소리축제), which is South Korea's main traditional music festival. It has been ranked among the top 25 best international festivals in the world several times. The capital of the province is Jeonju (전주시).",
+    "reference": "https://en.wikipedia.org/wiki/North_Jeolla_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616146936523,
+    "korean": "제주특별자치도",
+    "english": "Jeju Special Self-Governing Province",
+    "hanja": "濟州特別自治道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-Jeju-01.png",
+    "notes": "Due to it being isolated as an island, the Jeju people have developed a culture and language distinct from mainland Korea. Jeju dialect (제주어) is not mutually intelligible with other dialects of Korean. The air route between Jeju and Gimpo Airport (domestic airport that serves Seoul) is the busiest in the world. The capital of the province is Jeju City (제주시).",
+    "reference": "https://en.wikipedia.org/wiki/Jeju_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province",
+      "Island"
+    ]
+  },
+  {
+    "id": 1616146971441,
+    "korean": "충청남도",
+    "english": "South Chungcheong Province",
+    "hanja": "忠淸南道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-South_Chungcheong-01.png",
+    "notes": "This is South Korea's most productive province, with the highest GDP per capita. There are a number of old temples, including Gwanchok-sa (관촉사), which is home to the largest stone Buddha in Korea. The largest city in the province is Cheonan (천안시), but the capital is Hongseong County (홍성군).",
+    "reference": "https://en.wikipedia.org/wiki/South_Chungcheong_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616147008502,
+    "korean": "충청북도",
+    "english": "North Chungcheong Province",
+    "hanja": "忠淸北道",
+    "title": "Administrative divisions of South Korea",
+    "koreanTitle": "대한민국의 행정 구역",
+    "image": "South_Korea-North_Chungcheong-01.png",
+    "notes": "Very mountainous and is South Korea's only landlocked province. The province specialises in producing ginseng and tobacco. The capital of the province is Cheongju (청주시).",
+    "reference": "https://en.wikipedia.org/wiki/North_Chungcheong_Province",
+    "category": "Provinces & Cities",
+    "subtype": "Province",
+    "tags": [
+      "AdministrativeDivision::Province"
+    ]
+  },
+  {
+    "id": 1616793544062,
+    "korean": "김포시",
+    "english": "Gimpo",
+    "hanja": "金浦市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gimpo-01-5cf587fa9b5e7eb51383c9f0417010f2d8c20759.png",
+    "notes": "It is the 29th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gimpo",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts",
+      "Sudogwon"
+    ]
+  },
+  {
+    "id": 1616793612883,
+    "korean": "오산시",
+    "english": "Osan",
+    "hanja": "烏山市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Osan-01-16ab91d210b7791d24f511bcb3c8d1854b7c74b1.png",
+    "notes": "Famous for Osan Market (오산시장), one of the largest in the country, which has been in continuous operation since 1792. In 1950, this is where North Korean and US forces first clashed during the Battle of Osan (오산 전투). It is the 47th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Osan",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts",
+      "Sudogwon"
+    ]
+  },
+  {
+    "id": 1616793649978,
+    "korean": "용인시",
+    "english": "Yongin",
+    "hanja": "龍仁市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Yongin-01-e4151d607e8afcdcbb31beb868e58190429f2514.png",
+    "notes": "Home to Everland (에버랜드) and Caribbean Bay (캐리비안 베이), South Korea's most popular amusement and water park. The Korean Folk Village (한국민속촌) is also located here. It is the 11th largest city in South Korea, and has recorded the fastest population growth of any city in the country during the 21st century.",
+    "reference": "https://en.wikipedia.org/wiki/Yongin",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616793701577,
+    "korean": "수원시",
+    "english": "Suwon",
+    "hanja": "水原市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Suwon-01-3d31f3bc88d0982e7ea45a576ee59412996efcaf.png",
+    "notes": "The capital of Gyeonggi Province (경기도), and the only remaining completely walled city in South Korea. Samsung Electronics are headquartered here. It is the 7th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Suwon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616793780520,
+    "korean": "가평군",
+    "english": "Gapyeong County",
+    "hanja": "加平郡",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gapyeong County-01.png",
+    "notes": "This was where the Battle of Kapyong (가평전투) took place, a major battle of the Korean War.",
+    "reference": "https://en.wikipedia.org/wiki/Gapyeong_County",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616793858525,
+    "korean": "화성시",
+    "english": "Hwaseong",
+    "hanja": "華城市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Hawseong-01.png",
+    "notes": "Hwaseong has the largest area of farmland of any city or county in Gyeonggi Province. It was the site chosen for the Universal Studios South Korea theme park. However, the project has now been scrapped. It is the 19th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Hwaseong,_Gyeonggi",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616793907390,
+    "korean": "안양시",
+    "english": "Anyang",
+    "hanja": "安養市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Anyang-01-4c34ff4ad704baed27ddb2cc756119986fb34c0e.png",
+    "notes": "Anyang has South Korea's only \"singing road\". Grooves cut into the ground cause tactile vibration when driven over, which allows drivers to hear the tune of \"Mary Had a Little Lamb\". It is the 20th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Anyang,_Gyeonggi",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794124307,
+    "korean": "광주시",
+    "english": "Gwangju, Gyeonggi",
+    "hanja": "廣州市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gwangju-01-092ff70055bbf5e7adc13bd37acc61ccfd71da58.png",
+    "notes": "Not to be confused with Gwangju (광주광역시) in South Jeolla Province (전라남도). It is the 34th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gwangju,_Gyeonggi",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794175428,
+    "korean": "안산시",
+    "english": "Ansan",
+    "hanja": "安山市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Ansan-01-2a7d2bd86eb3c5b21243a7350d810df4de6137b9.png",
+    "notes": "Some islands lie within the jurisdiction of the city, including Daebu Island (대부도), which has been a film location for several famous K-Dramas such as Boys Over Flowers (꽃보다 남자). Kim Yeon-Koung (김연경), the captain of the South Korean women's national volleyball team is from Ansan. It is the 15th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Ansan",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794210239,
+    "korean": "안성시",
+    "english": "Anseong",
+    "hanja": "安城市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Anseong-01-8662c919d50eeb69ac669bb600ee4cc52e429983.png",
+    "notes": "Known as \"The City of Masters\" for its production of brassware and arts & crafts. Asian grapes, ginseng and rice are produced here. It is the 52nd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Anseong",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794263587,
+    "korean": "부천시",
+    "english": "Bucheon",
+    "hanja": "富川市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Bucheon-01-bc1fe51abd4f43d3e60431632cfde9565502ca4c.png",
+    "notes": "Second most densely populated city in the country after Seoul. The city promotes itself as the cultural centre of the Seoul Metropolitan Area, as it is the home of the Bucheon Philharmonic Orchestra and hosts the Bucheon International Fantastic Film Festival every July. Mamamoo's Moonbyul (문별이) is from Bucheon. It is the 13th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Bucheon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794341687,
+    "korean": "동두천시",
+    "english": "Dongducheon",
+    "hanja": "東豆川市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Dongducheon-01-3118835a868dc199f21dcd89d34745c631a576bf.png",
+    "notes": "Located north of Seoul, Dongducheon is a strategically important city for the defense of Seoul. Since 1999, it has hosted Dongducheon Rock festival every year, one of the biggest music festivals in the country. It is the 75th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Dongducheon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794375448,
+    "korean": "고양시",
+    "english": "Goyang",
+    "hanja": "高陽市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Goyang-01-3d632f1b77cbeec2d8cd83a101a3bc6a20f3d6f3.png",
+    "notes": "There are many things to do in Goyang including hiking up one of the mountains that is distinctive of Seoul's skyline, Bukhansan (북한산). Many celebrities call this their hometown, including BTS's leader RM. Not to be confused with the Korean word for \"hometown\", which is 고향 (gohyang). It is the 10th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Goyang",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794413342,
+    "korean": "군포시",
+    "english": "Gunpo",
+    "hanja": "軍浦市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gunpo-01-751e8a688121054052c5cb78995e29f842df1911.png",
+    "notes": "73.2% of the city is green space, mainly due to Surisan (수리산). Olympic figure skater Yuna Kim (김연아) was born in Bucheon (부천시), but has lived in Gunpo since she was 6 years old. It is the 37th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gunpo",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794450704,
+    "korean": "구리시",
+    "english": "Guri",
+    "hanja": "九里市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Guri-01-1fbe26416397c60e50b4c1cc30e17656f5398816.png",
+    "notes": "The Royal Tombs of the Joseon Dynasty are located in the city, as is Achasan (아차산). Twice's Jihyo (박지효) is from Guri. It is the 53rd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Guri",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794479579,
+    "korean": "과천시",
+    "english": "Gwacheon",
+    "hanja": "果川市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gwacheon-01-8d436f126fc4d6da5c972362c17e0b548cdf730c.png",
+    "notes": "Many attractions with misleading names, such as Seoul Grand Park (서울대공원), Seoul Land (서울랜드) and the National Museum of Contemporary Art (국립현대미술관) are all located in Gwacheon, not Seoul. BTS's Jin was born in Gwacheon. It is the 83rd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gwacheon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794545416,
+    "korean": "광명시",
+    "english": "Gwangmyeong",
+    "hanja": "光明市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Gwangmyeong-01-2fcf6f784f647cb174308a1a05f5524ce4ec5afa.png",
+    "notes": "Mainly residential as it is a commuter town for people who live in Seoul. It is home to one of the world's largest IKEA stores (59,000m2), as well as a Costco and Lotte Premium Outlet. It is the 31st largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Gwangmyeong",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794625691,
+    "korean": "하남시",
+    "english": "Hanam",
+    "hanja": "河南市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Hanam-01-fdef0035e8edba30f3e8a591e9ddc3cb1b94c51a.png",
+    "notes": "South Korea's second largest shopping mall, Starfield Hanam (스타필드하남), is located here. It is the 59th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Hanam",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794652132,
+    "korean": "이천시",
+    "english": "Icheon",
+    "hanja": "利川市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Icheon-01-edf154a73137e9f5662142fe1a2b0490914a6242.png",
+    "notes": "Along with Yeoju (여주시), Icheon is known as a center of South Korean ceramic manufacturing and is a UNESCO City of Crafts and Folk Art. This is the place to go for some quality pottery. It is the 49th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Icheon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794689812,
+    "korean": "남양주시",
+    "english": "Namyangju",
+    "hanja": "南楊州市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Namyangju-01-1b1b45cd8065f2ea4b48a5fdcf64abd8b879d250.png",
+    "notes": "Rapidly developing a reputation as a regional centre of excellence for organic farming. In September 2011, the world's first organic agriculture museum was opened here. It is the 18th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Namyangju",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794715451,
+    "korean": "파주시",
+    "english": "Paju",
+    "hanja": "坡州市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Paju-01-d024e32b5824ee7e48289bbb16e8e41e2e43b8f0.png",
+    "notes": "North Korea can be seen from Mount Dora (도라산) in the city. Many attractions are in Paju, including Heyri Art Valley (헤이리 마을) and Gloucester Valley Battle Monument (파주 영국군 설마리전투비). Many foreigners live and work at the \"Paju English Village\" (파주영어마을), an immersion-style English camp for kids. It is the 28th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Paju",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794747945,
+    "korean": "포천시",
+    "english": "Pocheon",
+    "hanja": "抱川市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Pocheon-01-761695457ab689e007b59098c4e876f482afeb26.png",
+    "notes": "An extremely mountainous city. Located here is Korea National Arboretum (국립수목원), commonly referred to as \"Gwangneung Forest\" (광릉숲) by the public. It is the 57th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Pocheon",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794776220,
+    "korean": "평택시",
+    "english": "Pyeongtaek",
+    "hanja": "平澤市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Pyeongtaek-01-3f5bff71103b34d284d20285a5cb2a9505a91ff2.png",
+    "notes": "Home to a large concentration of US troops. It is the 23rd largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Pyeongtaek",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794818649,
+    "korean": "성남시",
+    "english": "Seongnam",
+    "hanja": "城南市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Seongnam-01-dfe8fd8d621841cc0d665fdc1f68dec20577b818.png",
+    "notes": "This was the first ever planned city in South Korea. It is the 12th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Seongnam",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794854011,
+    "korean": "시흥시",
+    "english": "Siheung",
+    "hanja": "始興市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Siheung-01-f3b2febcd7e95c958e6a5afef52a663d4a580580.png",
+    "notes": "Notable landmarks include Oido Island (오이도), Soraesan (소래산), and the port and inlet of Wolgot (월곶). It is the 25th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Siheung",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794885788,
+    "korean": "의정부시",
+    "english": "Uijeongbu",
+    "hanja": "議政府市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Uijeongbu-01-3051f6a93fd26aaf50721237cffd0e7b94c86300.png",
+    "notes": "An important choke point across the traditional invasion route from North to South Korea. It is well known for its budae-jjigae (부대찌개), literally \"army base stew\". If you like the dish, then you can visit \"budae-jjigae street\". Famous singer Taeyang (태양) is from Uijeongbu. It is the 26th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Uijeongbu",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794922665,
+    "korean": "의왕시",
+    "english": "Uiwang",
+    "hanja": "義王市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Uiwang-01-eb7ad6189ad7a751f9e6ea2b063b55b86aa8b037.png",
+    "notes": "Rail transportation is important in Uiwang. It is home to the Korea Railroad Museum (철도박물관) and Korea National Railroad College (한국철도대학). It is the 58th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Uiwang",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794948907,
+    "korean": "양주시",
+    "english": "Yangju",
+    "hanja": "楊州市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Yangju-01-1ee14ea043dbee969531116e4bcd5981075ab7db.png",
+    "notes": "Hosts the Yangju Snow Festival (양주 눈꽃축제) annually. It is the 50th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Yangju",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616794998488,
+    "korean": "양평군",
+    "english": "Yangpyeong",
+    "hanja": "楊平郡",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Yangpyeong County-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Yangpyeong_County",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616795017460,
+    "korean": "여주시",
+    "english": "Yeoju",
+    "hanja": "驪州市",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Yeoju-01-a0e1d7bf61c5f71d5642d1a49ba4a5a7eee4f3a1.png",
+    "notes": "Along with Icheon (이천시), Yeoju is known as a center of South Korean ceramic manufacturing and hosts the World Ceramic Exposition every year. It is the 69th largest city in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Yeoju",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616795046754,
+    "korean": "연천군",
+    "english": "Yeoncheon County",
+    "hanja": "漣川郡",
+    "title": "Administrative divisions of Gyeonggi Province",
+    "koreanTitle": "경기도의 행정 구역",
+    "image": "Yeoncheon-01-bbb3c90f1a26527ad1b65cdcd421675c3739a896.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Yeoncheon_County",
+    "category": "Gyeonggi Districts",
+    "subtype": "Gyeonggi_Districts",
+    "tags": [
+      "Gyeonggi_Districts"
+    ]
+  },
+  {
+    "id": 1616798313686,
+    "korean": "도봉구",
+    "english": "Dobong District",
+    "hanja": "道峰區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Dobong-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Dobong_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798354781,
+    "korean": "동대문구",
+    "english": "Dongdaemun District",
+    "hanja": "東大門區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Dongdaemun-01.png",
+    "notes": "Named after the East gate (동대문) in Seoul's city walls, which was one of the four gates of the capital city in the Joseon dynasty era.",
+    "reference": "https://en.wikipedia.org/wiki/Dongdaemun_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798393525,
+    "korean": "동작구",
+    "english": "Dongjak District",
+    "hanja": "銅雀區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Dongjak-01.png",
+    "notes": "The symbol of this district is the snowy heron, meant to symbolise the \"clean, beautiful and noble spirit\" of Dongjak's people. You can find stickers of a cartoon character named 'Roya', a baby snowy heron, on signs, banners and light poles throughout Dongjak district.",
+    "reference": "https://en.wikipedia.org/wiki/Dongjak_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798417823,
+    "korean": "은평구",
+    "english": "Eunpyeong District",
+    "hanja": "恩平區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Eunpyeong-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Eunpyeong_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798453413,
+    "korean": "강북구",
+    "english": "Gangbuk District",
+    "hanja": "江北區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gangbuk-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Gangbuk_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798487338,
+    "korean": "강동구",
+    "english": "Gangdong District",
+    "hanja": "江東區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gangdong-01.png",
+    "notes": "One of the neighbourhoods in this district, Amsa-dong (암사동), hosts a ~6000 year old prehistoric settlement site.",
+    "reference": "https://en.wikipedia.org/wiki/Gangdong_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798926355,
+    "korean": "강남구",
+    "english": "Gangnam District",
+    "hanja": "江南區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gangnam-01.png",
+    "notes": "Until the early 1980s, the Greater Gangnam Area was the least developed in Seoul. Nowadays, it is well known as a wealthy and highly influential part of the capital. The price of real estate is 3.5x the national average and accounts for almost 10% of South Korea's total land value.",
+    "reference": "https://en.wikipedia.org/wiki/Gangnam_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798965968,
+    "korean": "강서구",
+    "english": "Gangseo District",
+    "hanja": "江西區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gangseo-01.png",
+    "notes": "One of the neighbourhoods in the district, Gonghang-dong (공항동), literally meaning 'airport neighbourhood', is where you will find Gimpo Airport (김포공항), which is Seoul's secondary airport. Korean Air are also headquartered here.",
+    "reference": "https://en.wikipedia.org/wiki/Gangseo_District,_Seoul",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616798993711,
+    "korean": "금천구",
+    "english": "Geumcheon District",
+    "hanja": "衿川區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Geumcheon-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Geumcheon_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799034573,
+    "korean": "구로구",
+    "english": "Guro District",
+    "hanja": "九老區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Guro-01.png",
+    "notes": "The name Guro originates from the legend that nine (Gu/구) old men (Ro/로) enjoyed longevity in the district.",
+    "reference": "https://en.wikipedia.org/wiki/Guro_District,_Seoul",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799072833,
+    "korean": "관악구",
+    "english": "Gwanak District",
+    "hanja": "冠岳區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gwanak-01.png",
+    "notes": "Once a rural area, rapid industrialization and population booms in the 1950s and 60s transformed the district into a densely populated residential and industrial area. Redevelopment projects from the 1970s onwards developed slums into the uptown residential district that it is today. Seoul National University's (SNU; 서울대학교) main campus is located here.",
+    "reference": "https://en.wikipedia.org/wiki/Gwanak_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799130172,
+    "korean": "광진구",
+    "english": "Gwangjin District",
+    "hanja": "廣津區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Gwangjin-01.png",
+    "notes": "Home of Konkuk University (건국대학교), Sejong University (세종대학교) and Children's Grand Park. The southern part of the district is packed with high-rise apartment buildings typical of the Seoul skyline, yet the central and northern parts are centers for light industry and manufacturing.",
+    "reference": "https://en.wikipedia.org/wiki/Gwangjin_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799153110,
+    "korean": "종로구",
+    "english": "Jongno District",
+    "hanja": "鐘路區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Jongno-01.png",
+    "notes": "Named after a major local street, Jongno, meaning \"Bell Street\". This district is the cultural and historical heart of Seoul. It contains several palaces as well as the current Korean president's residence. You can also find the well known Cheonggye Stream (청계천) here. It is a popular tourist destination.",
+    "reference": "https://en.wikipedia.org/wiki/Jongno_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799192363,
+    "korean": "중구",
+    "english": "Jung District",
+    "hanja": "中區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Jung-01.png",
+    "notes": "This is the historical city centre of Seoul, with a variety of old and new buildings and features. It is the least populous and smallest district in Seoul. Here you can find Namsan (남산) and Myeongdong (명동), two of the most popular tourist spots in the city.",
+    "reference": "https://en.wikipedia.org/wiki/Jung_District,_Seoul",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799230348,
+    "korean": "중랑구",
+    "english": "Jungnang District",
+    "hanja": "中浪區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Jungnang-01.png",
+    "notes": "",
+    "reference": "https://en.wikipedia.org/wiki/Jungnang_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799285182,
+    "korean": "마포구",
+    "english": "Mapo District",
+    "hanja": "麻浦區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Mapo-01.png",
+    "notes": "Home to several universities and government buildings. It is most well known for the Hongdae (홍대) club district surrounding Hongik University and the Seoul World Cup Stadium.",
+    "reference": "https://en.wikipedia.org/wiki/Mapo_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799318593,
+    "korean": "노원구",
+    "english": "Nowon District",
+    "hanja": "蘆原區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Nowon-01.png",
+    "notes": "Despite being called no-one (badum-tsh), this district has the highest population density in Seoul (17,000/km2). It hosts several educational institutes, including Seoul National University of Science and Technology, giving it the reputation of being the \"educational district\" of Northern Seoul.",
+    "reference": "https://en.wikipedia.org/wiki/Nowon_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799355289,
+    "korean": "서초구",
+    "english": "Seocho District",
+    "hanja": "瑞草區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Seocho-01.png",
+    "notes": "Generally referred to as part of the Greater Gangnam Area along with Gangnam (강남구) and Songpa District (송파구). The Supreme Court of South Korea, National Library of Korea and Seoul Art Centre are all located here. The infamous 1995 collapse of the Sampoong Department Store also happened in the district. It hosts a small French enclave called Seorae Village (서래마을), which has a large concentration of French residents, European-style restaurants, wineries and cafes.",
+    "reference": "https://en.wikipedia.org/wiki/Seocho_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799395999,
+    "korean": "서대문구",
+    "english": "Seodaemun District",
+    "hanja": "西大門區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Seodaemun-01.png",
+    "notes": "Named after Donuimun (돈의문), one of the 8 gates of Seoul. There are a total of 46 educational institutes here, including Yonsei University (연세대학교) and Ewha Women's University (이화여자대학교). The leader of K-Rock band Boohwal (부활), Kim Tae-Won (김태원) is from Seodaemun.",
+    "reference": "https://en.wikipedia.org/wiki/Seodaemun_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799422941,
+    "korean": "성북구",
+    "english": "Seongbuk District",
+    "hanja": "城北區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Seongbuk-01.png",
+    "notes": "K-R&B singer/songwriter Bumkey (권기범) and Red Velvet member Wendy (손승완) were both born in Seongbuk-dong, Seongbuk District (성북구, 성북동).",
+    "reference": "https://en.wikipedia.org/wiki/Seongbuk_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799443501,
+    "korean": "성동구",
+    "english": "Seongdong District",
+    "hanja": "城東區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Seongdong-01.png",
+    "notes": "Seoul Forest (서울숲) is located in the district.",
+    "reference": "https://en.wikipedia.org/wiki/Seongdong_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799491057,
+    "korean": "송파구",
+    "english": "Songpa District",
+    "hanja": "松坡區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Songpa-01.png",
+    "notes": "Generally referred to as part of the Greater Gangnam Area along with Gangnam (강남구) and Seocho District (서초구). Songpa has the highest population of Seoul's districts (~650,000). This was the center for the 1968 Asian games and the 1988 Olympics, so you can find the Seoul Olympic Stadium (서울올림픽주경기장) and Olympic Park (올림픽공원) here. Lotte Tower, the world's 5th tallest building, is also located in the district.",
+    "reference": "https://en.wikipedia.org/wiki/Songpa_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799520440,
+    "korean": "양천구",
+    "english": "Yangcheon District",
+    "hanja": "陽川區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Yangcheon-01.png",
+    "notes": "The centre of the district is the Mok-dong (목동) area, home to numerous shopping outlets, bars, restaurants, an ice rink and residential buildings occupied by middle-upper class families. Considered one of the better places to live in Seoul. Hyperion Towers, Tower A, located in the district, is one of the tallest purely residential buildings in the world.",
+    "reference": "https://en.wikipedia.org/wiki/Yangcheon_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799557474,
+    "korean": "영등포구",
+    "english": "Yeongdeungpo District",
+    "hanja": "永登浦區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Youngdeungpo-01.png",
+    "notes": "For several decades, Yeouido-dong (여의도동) in the district has been considered the financial center of Seoul. The origin of the district's name is uncertain, but the first two syllables are thought to be from 'Yeongdeung' (영등/靈登), meaning \"divine ascent\", and the third syllable is 'Po' (포), representing the bank of a river (浦), referring to the district's position on the Han River (한강).",
+    "reference": "https://en.wikipedia.org/wiki/Yeongdeungpo_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616799588096,
+    "korean": "용산구",
+    "english": "Yongsan District",
+    "hanja": "龍山區",
+    "title": "Administrative divisions of Seoul",
+    "koreanTitle": "서울특별시의 행정 구역",
+    "image": "Yongsan-01.png",
+    "notes": "Home to Itaewon (이태원), an ethnically diverse part of Seoul where you can find various international cuisine. In 2020, there were a total of 21,067 foreign residents living in the district. It is also home to Seoul Central Mosque and Homo Hill, Seoul's Gay Village.",
+    "reference": "https://en.wikipedia.org/wiki/Yongsan_District",
+    "category": "Seoul Capital Area",
+    "subtype": "District",
+    "tags": [
+      "Sudogwon::Seoul::District"
+    ]
+  },
+  {
+    "id": 1616802575432,
+    "korean": "울릉군",
+    "english": "Ulleung County",
+    "hanja": "鬱陵郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Ulleung-01-32b796f5e071c0326820f68dda498cf515ccc9e1.png",
+    "notes": "Least populated county in South Korea. Consists of the island Ulleungdo (울릉도) and 44 smaller islands in the Sea of Japan, including Dokdo (독도), a group of small islets controlled by Korea, though Japan also claims sovereignty over them.",
+    "reference": "https://en.wikipedia.org/wiki/Ulleung_County",
+    "category": "Islands",
+    "subtype": "Island",
+    "tags": [
+      "Island"
+    ]
+  },
+  {
+    "id": 1616802923179,
+    "korean": "옹진군",
+    "english": "Ongjin County",
+    "hanja": "甕津郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Ongjin_County-01.png",
+    "notes": "A group of islands in the Yellow Sea that are a county in Incheon Metropolitan City (인천광역시). Four of the islands are very near the Northern Limit Line (de facto maritime boundary between North and South Korea).",
+    "reference": "https://en.wikipedia.org/wiki/Ongjin_County,_Incheon",
+    "category": "Islands",
+    "subtype": "Island",
+    "tags": [
+      "Island",
+      "Sudogwon::Incheon"
+    ]
+  },
+  {
+    "id": 1617969141348,
+    "korean": "충청도",
+    "english": "Chungcheong Province",
+    "hanja": "忠淸道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Chungcheong-01.png",
+    "notes": "The name of the province was derived from the principal cities of Chungju (충주) and Cheongju (청주). The provincial capital was Gongju (공주시), which was also the capital of the kingdom of Baekje (백제) from 475-538 CE.",
+    "reference": "https://en.wikipedia.org/wiki/Chungcheong_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617969433689,
+    "korean": "강원도",
+    "english": "Gangwon Province",
+    "hanja": "江原道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Gangwon-01.png",
+    "notes": "The name of the province was derived from the principal cities of Gangneung (강릉) and Wonju (원주), which was the provincial capital. After the Korean War, it was divided into two provinces with the same name; one in the South and one in the North.",
+    "reference": "https://en.wikipedia.org/wiki/Gangwon_Province_(historical)",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617969628099,
+    "korean": "경상도",
+    "english": "Gyeongsang Province",
+    "hanja": "慶尙道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Gyeongsang-01.png",
+    "notes": "The birthplace of the kingdom of Silla (신라). Also the birthplace of seven South Korean presidents, including Moon Jae-In (문재인).",
+    "reference": "https://en.wikipedia.org/wiki/Gyeongsang_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617969810317,
+    "korean": "함경도",
+    "english": "Hamgyong Province",
+    "hanja": "咸鏡道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Hamgyong-01.png",
+    "notes": "After being renamed several times, the name of the province was derived from the principal cities of Hamheung (함흥) and Kyongsong (경성).",
+    "reference": "https://en.wikipedia.org/wiki/Hamgyong_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617969998525,
+    "korean": "황해도",
+    "english": "Hwanghae Province",
+    "hanja": "黃海道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Hwanghae-01.png",
+    "notes": "Literally meaning \"Yellow Sea Province\", the name of the province was derived from the principal cities of Hwangju (황주) and Haeju (해주).",
+    "reference": "https://en.wikipedia.org/wiki/Hwanghae_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617970193621,
+    "korean": "전라도",
+    "english": "Jeolla Province",
+    "hanja": "全羅道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Jeolla-01.png",
+    "notes": "The entire mainland region of the province was referred to as Honam (호남), meaning \"South of the Lake\", which is still commonly used today.",
+    "reference": "https://en.wikipedia.org/wiki/Jeolla_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617970365786,
+    "korean": "평안도",
+    "english": "Pyeongan Province",
+    "hanja": "平安道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Pyeongan-01.png",
+    "notes": "The name of the province was derived from the principal cities of Pyeongyang (평양) and Anju (안주). Pyeongyang, now known as Pyongyang, is the capital of North Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Pyongan_Province",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1617970645458,
+    "korean": "경기도",
+    "english": "Gyeonggi Province",
+    "hanja": "京畿道",
+    "title": "8 Historical Provinces of Korea",
+    "koreanTitle": "조선 8도",
+    "image": "Gyeonggi-01.png",
+    "notes": "The province started to rise as the central region of Goryeo (고려) as King Taejo of Goryeo (고려 태조) (the kingdom following Silla) set up the capital there. It is geographically quite similar to the modern day Gyeonggi Province.",
+    "reference": "https://en.wikipedia.org/wiki/Gyeonggi_Province#History",
+    "category": "Historical Provinces",
+    "subtype": "Historical_Provinces",
+    "tags": [
+      "Historical_Provinces"
+    ]
+  },
+  {
+    "id": 1618048142967,
+    "korean": "강화군",
+    "english": "Ganghwa County",
+    "hanja": "江華郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Ganghwagun-01.png",
+    "notes": "Some of the most important historical sites in Korea are here. Ganghwa Island (강화도) has many dolmen, which have been designated as a UNESCO World Heritage Site. ~70% of the citizens in the county are farmers. Their specialty is the Ganghwa turnip (강화순무).",
+    "reference": "https://namu.wiki/w/%EA%B0%95%ED%99%94%EA%B5%B0<br>https://en.wikipedia.org/wiki/Ganghwa_County",
+    "category": "Islands",
+    "subtype": "Island",
+    "tags": [
+      "Island",
+      "Sudogwon::Incheon"
+    ]
+  },
+  {
+    "id": 1618070780116,
+    "korean": "신안군",
+    "english": "Sinan County",
+    "hanja": "新安郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Sinan County-01.png",
+    "notes": "The county consists of 111 inhabited islands and 719 uninhabited islands, which account for 25% of all the islands in South Korea. It is known for skate (fish) and cheonilyeom (천일염, a type of sea salt).",
+    "reference": "https://namu.wiki/w/%EC%8B%A0%EC%95%88%EA%B5%B0<br>https://en.wikipedia.org/wiki/Sinan_County,_South_Jeolla",
+    "category": "Provinces & Cities",
+    "subtype": "County",
+    "tags": [
+      "AdministrativeDivision::Province::South_Jeolla::County",
+      "Island"
+    ]
+  },
+  {
+    "id": 1618071326571,
+    "korean": "진도군",
+    "english": "Jindo County",
+    "hanja": "珍島郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Jindo County-01.png",
+    "notes": "Along with Jindo Island, the county contains an archipelago of 230 small islands, 45 of which are inhabited. Winner of 2019 reality TV show 'Miss Trot' Song Ga-In (송가인) is from Jindo County.",
+    "reference": "https://namu.wiki/w/%EC%A7%84%EB%8F%84%EA%B5%B0<br>https://en.wikipedia.org/wiki/Jindo_County",
+    "category": "Provinces & Cities",
+    "subtype": "County",
+    "tags": [
+      "AdministrativeDivision::Province::South_Jeolla::County",
+      "Island"
+    ]
+  },
+  {
+    "id": 1618071685140,
+    "korean": "완도군",
+    "english": "Wando County",
+    "hanja": "莞島郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Wando-01.png",
+    "notes": "The largest island and county seat, Wando Island is famous for Cheonghaejin (청해진, literally \"Blue sea headquarters\"), the former headquarters of Jang Bogo (장보고), a 9th century Korean historical figure who dominated the Yellow Sea, and controlled much of the trade between Silla, Heian Japan, and Tang China for decades.",
+    "reference": "https://namu.wiki/w/%EC%99%84%EB%8F%84%EA%B5%B0<br>https://en.wikipedia.org/wiki/Wando_County",
+    "category": "Provinces & Cities",
+    "subtype": "County",
+    "tags": [
+      "AdministrativeDivision::Province::South_Jeolla::County",
+      "Island"
+    ]
+  },
+  {
+    "id": 1618072091317,
+    "korean": "남해군",
+    "english": "Namhae County",
+    "hanja": "南海郡",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Namhae County-01.png",
+    "notes": "There is a unique German Village (독일 마을), which was built for Korean residents who returned from living in Germany in the 1960s. Nearby is the Mulmi coastal road (물미해안도로), one of Korea's most beautiful coastal drives.",
+    "reference": "https://namu.wiki/w/%EB%82%A8%ED%95%B4%EA%B5%B0<br>https://en.wikipedia.org/wiki/Namhae_County",
+    "category": "Provinces & Cities",
+    "subtype": "County",
+    "tags": [
+      "AdministrativeDivision::Province::South_Gyeongsang::County",
+      "Island"
+    ]
+  },
+  {
+    "id": 1618072588507,
+    "korean": "거제시",
+    "english": "Geoje City",
+    "hanja": "巨濟市",
+    "title": "Islands of South Korea",
+    "koreanTitle": "대한민국의 섬",
+    "image": "Geojae-01.png",
+    "notes": "Geoje Island is connected to the mainland via several bridges and underwater tunnels, and has plenty of tourist attractions. The 14th President of Korea, Kim Young-Sam (김영삼), was from Geoje City.",
+    "reference": "https://namu.wiki/w/%EA%B1%B0%EC%A0%9C%EC%8B%9C<br>https://en.wikipedia.org/wiki/Geoje",
+    "category": "Provinces & Cities",
+    "subtype": "City",
+    "tags": [
+      "AdministrativeDivision::Province::South_Gyeongsang::City",
+      "Island"
+    ]
+  },
+  {
+    "id": 1618078732520,
+    "korean": "북한강",
+    "english": "Bukhan River",
+    "hanja": "北漢江",
+    "title": "Rivers of South Korea",
+    "koreanTitle": "대한민국의 강",
+    "image": "Bukhan River-01.png",
+    "notes": "Flows through both North and South Korea, crossing the Demilitarized Zone (DMZ). It has a length of ~482km, making it the 4th longest river in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Bukhan_River",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "River",
+    "tags": [
+      "Mountains_Rivers_Seas::River"
+    ]
+  },
+  {
+    "id": 1618078955096,
+    "korean": "낙동강",
+    "english": "Nakdong River",
+    "hanja": "洛東江",
+    "title": "Rivers of South Korea",
+    "koreanTitle": "대한민국의 강",
+    "image": "Nakdong River-01.png",
+    "notes": "The longest river in South Korea, with a length of 510km. It passes through the major cities of Daegu and Busan.",
+    "reference": "https://en.wikipedia.org/wiki/Nakdong_River",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "River",
+    "tags": [
+      "Mountains_Rivers_Seas::River"
+    ]
+  },
+  {
+    "id": 1618079310054,
+    "korean": "한강",
+    "english": "Han River",
+    "hanja": "漢江",
+    "title": "Rivers of South Korea",
+    "koreanTitle": "대한민국의 강",
+    "image": "Han River-01-c2db79aec8eecbb07323155e9a8053f108309482.png",
+    "notes": "Probably the most well known river in South Korea, as it passes through Seoul. It has a length of 494km, making it the 2nd longest river in the country.",
+    "reference": "https://en.wikipedia.org/wiki/Han_River_(Korea)",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "River",
+    "tags": [
+      "Mountains_Rivers_Seas::River"
+    ]
+  },
+  {
+    "id": 1618079455683,
+    "korean": "금강",
+    "english": "Geum River",
+    "hanja": "錦江",
+    "title": "Rivers of South Korea",
+    "koreanTitle": "대한민국의 강",
+    "image": "Geum River-01.png",
+    "notes": "397km long, making it the 3rd longest river in South Korea.",
+    "reference": "https://en.wikipedia.org/wiki/Geum_River",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "River",
+    "tags": [
+      "Mountains_Rivers_Seas::River"
+    ]
+  },
+  {
+    "id": 1618079727152,
+    "korean": "소백산맥",
+    "english": "Sobaek Mountains",
+    "hanja": "小白山脈",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Sobaek Mountains-01.png",
+    "notes": "The highest peak in the Sobaek Mountains is Jirisan (지리산), which sits at the southwestern limit of the range. This formed the traditional boundary between Honam (호남) and Yeongnam (영남) regions.",
+    "reference": "https://en.wikipedia.org/wiki/Sobaek_Mountains",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618079903001,
+    "korean": "태백산맥",
+    "english": "Taebaek Mountains",
+    "hanja": "太白山脈",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Taebaek Mountains-01-7e051b72e57a341fa4842d01959c745fc58357a4.png",
+    "notes": "The Taebaek Mountains stretch across both North and South Korea and are the main ridge of the Korean peninsula. The total length of the mountain range is ~500km and it has an average height of ~1000m.",
+    "reference": "https://en.wikipedia.org/wiki/Taebaek_Mountains",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618080080321,
+    "korean": "영남알프스",
+    "english": "Yeongnam Alps",
+    "hanja": "嶺南알프스",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Yeongnam Alps-01.png",
+    "notes": "Much shorter than the European Alps, averaging just over 1000m in height. This is a popular destination for domestic tourism due to the scenery and various landmarks in the region.",
+    "reference": "https://en.wikipedia.org/wiki/Yeongnam_Alps",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618080347403,
+    "korean": "설악산",
+    "english": "Seoraksan",
+    "hanja": "雪嶽山",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Seoraksan-01.png",
+    "notes": "The tallest mountain in Gangwon Province (강원도) in the Taebaek Mountains, with a height of 1,708m (5,604ft).",
+    "reference": "https://ko.wikipedia.org/wiki/설악산",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618080582770,
+    "korean": "한라산",
+    "english": "Hallasan",
+    "hanja": "漢拏山",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Hallasan-01.png",
+    "notes": "Shield volcano on Jeju Island, which is estimated to have last erupted around 5000 years ago. It is the tallest mountain in South Korea, with a height of 1,947m (6,388ft).",
+    "reference": "https://namu.wiki/w/한라산<br>https://en.wikipedia.org/wiki/Hallasan",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618080728437,
+    "korean": "지리산",
+    "english": "Jirisan",
+    "hanja": "智異山",
+    "title": "Mountains of South Korea",
+    "koreanTitle": "대한민국의 산",
+    "image": "Jirisan-01.png",
+    "notes": "2nd tallest mountain in South Korea, and the tallest mountain on the mainland, with a height of 1,915m (5,564ft).",
+    "reference": "https://en.wikipedia.org/wiki/Jirisan",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Mountain",
+    "tags": [
+      "Mountains_Rivers_Seas::Mountain"
+    ]
+  },
+  {
+    "id": 1618081119402,
+    "korean": "경기만",
+    "english": "Gyeonggi Bay",
+    "hanja": "京畿灣",
+    "title": "Seas of South Korea",
+    "koreanTitle": "대한민국의 해",
+    "image": "Gyeonggi Bay-01.png",
+    "notes": "",
+    "reference": "https://ko.wikipedia.org/wiki/경기만",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Sea",
+    "tags": [
+      "Mountains_Rivers_Seas::Sea"
+    ]
+  },
+  {
+    "id": 1618081243261,
+    "korean": "제주해협",
+    "english": "Jeju Strait",
+    "hanja": "濟州海峽",
+    "title": "Seas of South Korea",
+    "koreanTitle": "대한민국의 해",
+    "image": "Jeju Strait-01.png",
+    "notes": "The Jeju Strait forms the boundary between the Sea of Japan (East Sea) and the Yellow Sea.",
+    "reference": "https://en.wikipedia.org/wiki/Jeju_Strait",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Sea",
+    "tags": [
+      "Mountains_Rivers_Seas::Sea"
+    ]
+  },
+  {
+    "id": 1618081473571,
+    "korean": "대한해협",
+    "english": "Korea Strait",
+    "hanja": "大韓海峽",
+    "title": "Seas of South Korea",
+    "koreanTitle": "대한민국의 해",
+    "image": "Korea Strait-01.png",
+    "notes": "A Japan-Korea Undersea Tunnel (한일 해저 터널), over 200km long, has been proposed to connect Japan and South Korea along the strait for decades.",
+    "reference": "https://en.wikipedia.org/wiki/Korea_Strait",
+    "category": "Mountains, Rivers & Seas",
+    "subtype": "Sea",
+    "tags": [
+      "Mountains_Rivers_Seas::Sea"
+    ]
+  }
+]

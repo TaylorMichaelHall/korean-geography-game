@@ -1,0 +1,149 @@
+/* ============ Korea Field Survey — PALDO design tokens ============ */
+:root {
+  /* hanji paper surfaces (light atlas) */
+  --ink:      #e6dfcf;   /* page sand */
+  --ink-1:    #fbf7ee;   /* primary card / option surface */
+  --ink-2:    #f2ead9;   /* secondary surface / button base / hover */
+  --ink-3:    #e2d6bb;   /* faint fills, pips, tracks */
+  --hairline: rgba(43, 38, 32, 0.09);
+  --hairline-strong: rgba(43, 38, 32, 0.14);
+
+  /* map cards (deeper hanji) */
+  --paper:    #efe7d2;
+  --paper-2:  #e4d8bf;
+  --paper-ink:#2a2118;
+
+  /* obangsaek accents */
+  --cheong:        #1c5b8a;   /* 청 blue — primary interaction */
+  --cheong-bright: #2c76a8;
+  --jade:          #3c7a52;   /* 록 green — correct / mastery */
+  --jade-bright:   #4e9568;
+  --hwang:         #c99a33;   /* 황 gold — xp / streak */
+  --hwang-bright:  #ddb04a;
+  --seal:          #be3a2e;   /* 적 vermilion — the dojang stamp & CTA */
+  --seal-bright:   #d24a3b;
+  --wrong:         #be3a2e;
+
+  --text:     #211d17;
+  --text-dim: #6e6557;
+  --text-mut: #a0967f;
+
+  --radius:   18px;
+  --radius-sm:11px;
+
+  --display: 'Noto Serif KR', Georgia, serif;
+  --body: 'Pretendard Variable', Pretendard, system-ui, -apple-system, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', monospace;
+
+  --shadow: 0 22px 48px -30px rgba(43, 38, 32, 0.34), 0 3px 10px -6px rgba(43, 38, 32, 0.18);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body, #root { height: 100%; }
+
+body {
+  font-family: var(--body);
+  background: var(--ink);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+#root {
+  background:
+    radial-gradient(120% 80% at 80% -10%, rgba(28, 91, 138, 0.06), transparent 60%),
+    radial-gradient(90% 70% at -10% 110%, rgba(60, 122, 82, 0.06), transparent 55%),
+    var(--ink);
+}
+
+button { font-family: inherit; color: inherit; cursor: pointer; border: none; background: none; }
+button:disabled { cursor: default; }
+a { color: var(--cheong); text-decoration: none; }
+img { display: block; }
+
+::selection { background: var(--hwang); color: #211d17; }
+
+/* ---------- shared type helpers ---------- */
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--text-mut);
+}
+.mono { font-family: var(--mono); }
+.display { font-family: var(--display); }
+.dim { color: var(--text-dim); }
+
+/* ---------- app shell ---------- */
+.app {
+  position: relative;
+  z-index: 1;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.wrap {
+  width: min(1080px, 100%);
+  margin: 0 auto;
+  padding: clamp(18px, 4vw, 40px);
+}
+
+/* ---------- contour ambient bg ---------- */
+.contour {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.6;
+}
+.contour svg { width: 100%; height: 100%; }
+.contour path { fill: none; stroke: var(--hairline); stroke-width: 1; }
+
+/* ---------- buttons ---------- */
+.btn {
+  --bg: var(--ink-2);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 22px;
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  border: 1px solid var(--hairline-strong);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  transition: transform 0.12s ease, background 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+}
+.btn:hover:not(:disabled) { transform: translateY(-2px); border-color: var(--cheong); }
+.btn:active:not(:disabled) { transform: translateY(0); }
+.btn-primary {
+  --bg: var(--seal);
+  border-color: transparent;
+  color: #fbf7ee;
+  box-shadow: 0 14px 28px -14px rgba(190, 58, 46, 0.7);
+}
+.btn-primary:hover:not(:disabled) { --bg: #a8321f; border-color: transparent; }
+.btn-ghost { background: transparent; }
+.btn:focus-visible { outline: 2px solid var(--hwang); outline-offset: 2px; }
+
+
+/* ---------- card ---------- */
+.card {
+  background: var(--ink-1);
+  border: 1px solid rgba(43, 38, 32, 0.11);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+/* ---------- focus ring default ---------- */
+:focus-visible { outline: 2px solid var(--hwang); outline-offset: 2px; }
+
+/* ---------- scrollbar ---------- */
+* { scrollbar-width: thin; scrollbar-color: var(--ink-3) transparent; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+}
